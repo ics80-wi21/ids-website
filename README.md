@@ -15,7 +15,9 @@ Winter 2021
 
 This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices. 
 
-Course website is hosted at [introdata.science](https://introdata.science).
+Course website is hosted at [https://ics80-wi21.github.io/ids-website/](https://ics80-wi21.github.io/ids-website/).
+
+A newer version of this course is hosted at [introdata.science/](https://www.introdata.science/)
 
 <hr>
 
